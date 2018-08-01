@@ -14,9 +14,9 @@ body {
   font-family: 'SF Mono', 'Arial', sans-serif;
   font-weight: 400;
   font-size: 2rem;
-    line-height: 1.7;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("img/bg-main.jpg") center center no-repeat;
-    background-size: cover;
+  line-height: 1.7;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("img/bg-main.jpg") center center no-repeat;
+  background-size: cover;
 }
 
 .btn {
