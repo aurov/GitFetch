@@ -5,8 +5,8 @@ import Form from "./components/Form";
 import Git from "./components/Git";
 
 
-const client_id = process.env
-const client_secret = process.env
+const client_id = process.env.REACT_APP_USER_TOKEN
+const client_secret = process.env.REACT_APP_TOKEN
 
 class App extends Component {
   state = {
