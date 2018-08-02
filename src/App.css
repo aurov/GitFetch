@@ -15,8 +15,6 @@ body {
   font-weight: 400;
   font-size: 2rem;
   line-height: 1.7;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("img/bg-main.jpg") center center no-repeat;
-  background-size: cover;
 }
 
 .btn {
@@ -52,8 +50,12 @@ body {
 }
 
 .main {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("img/bg-main.jpg") center center no-repeat;
+  background-size: cover;
   padding: 100px 0;
   text-align: center;
+  height: 100vh;
+  border-bottom: solid 10px #eeb83b;
 }
 
 .main__title {
