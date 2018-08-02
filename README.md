@@ -1,9 +1,9 @@
 # GitFetch
 React GitFetch - Profile Finder for GitHub
 
-[Run GitFetch](https://gitfetch-wthaensghk.now.sh)
+[Run GitFetch](https://gitfetch-react.netlify.com)
 
-(Automatically deployed from this repository on zeit build)
+(Automatically deployed from this repository on netlify build)
 
 ## Installation
 1. Run ```$ npm install``` OR ```$ yarn install``` in the GitFetch
